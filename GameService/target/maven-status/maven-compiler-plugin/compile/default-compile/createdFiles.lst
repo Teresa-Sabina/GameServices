@@ -1,0 +1,6 @@
+com/spring/repository/GameRepository.class
+com/spring/model/Game.class
+com/spring/controller/GameController.class
+com/spring/service/GameServiceImpl.class
+com/spring/service/GameService.class
+com/spring/RestserviceforGameApplication.class
